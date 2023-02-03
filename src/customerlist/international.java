@@ -6,6 +6,7 @@ public class international {
 		System.out.println("welcome to DevOps Training");
 		System.out.println("by Farok");
 		System.out.println(20+50);
+		System.out.println("yeah we try it");
 	}
 
 }
